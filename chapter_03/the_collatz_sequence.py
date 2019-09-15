@@ -8,18 +8,20 @@ Requirements
     -Call the collatz() function on the entered number until it returns a value of 1
 '''
 
-# Define function that follows the collatz sequence, a mathematical sequence that will eventually return a value of 1
-def collatz(number):
-    while number != 1:
-        if number % 2 == 0:
-            number // 2
-            return print(str(number))
-        else:
-            3 * number + 1
-        return print(str(number))
 
-# Ask the user for the initial input value for the sequence
-print('Enter an integer')
+def collatz(n):
+    if n == 1:
+        print(n)
+        return
+    elif n % 2 == 0:
+        new_number = n // 2
+        print(new_number)
+        collatz(new_number)
+    else:
+        new_number = 3 * n + 1
+        print(new_number)
+        collatz(new_number)
+
+print('Give me a number')
 number = int(input())
-# As long as the return value does not = 1, print the number
 collatz(number)
