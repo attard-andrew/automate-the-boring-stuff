@@ -1,0 +1,1 @@
+@py.exe C:\my_python_scripts\pw.py %*
