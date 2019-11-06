@@ -1,0 +1,52 @@
+ 2019-11-06 12:14:49,035 - DEBUG - Start of program
+ 2019-11-06 12:14:49,037 - DEBUG - Start of factorial(5%)
+ 2019-11-06 12:14:49,037 - DEBUG - i is 1, total is 1
+ 2019-11-06 12:14:49,037 - DEBUG - i is 2, total is 2
+ 2019-11-06 12:14:49,038 - DEBUG - i is 3, total is 6
+ 2019-11-06 12:14:49,038 - DEBUG - i is 4, total is 24
+ 2019-11-06 12:14:49,038 - DEBUG - i is 5, total is 120
+ 2019-11-06 12:14:49,038 - DEBUG - End of factorial(5%)
+ 2019-11-06 12:14:49,039 - DEBUG - End of program
+ 2019-11-06 13:57:25,458 - DEBUG - Start of program
+ 2019-11-06 13:57:25,459 - DEBUG - Start of factorial(5%)
+ 2019-11-06 13:57:25,459 - DEBUG - i is 1, total is 1
+ 2019-11-06 13:57:25,460 - DEBUG - i is 2, total is 2
+ 2019-11-06 13:57:25,460 - DEBUG - i is 3, total is 6
+ 2019-11-06 13:57:25,460 - DEBUG - i is 4, total is 24
+ 2019-11-06 13:57:25,460 - DEBUG - i is 5, total is 120
+ 2019-11-06 13:57:25,460 - DEBUG - End of factorial(5%)
+ 2019-11-06 13:57:25,464 - DEBUG - End of program
+ 2019-11-06 13:58:02,466 - DEBUG - Start of program
+ 2019-11-06 13:58:02,468 - DEBUG - Start of factorial(5%)
+ 2019-11-06 13:58:02,469 - DEBUG - i is 1, total is 1
+ 2019-11-06 13:58:02,470 - DEBUG - i is 2, total is 2
+ 2019-11-06 13:58:02,470 - DEBUG - i is 3, total is 6
+ 2019-11-06 13:58:02,471 - DEBUG - i is 4, total is 24
+ 2019-11-06 13:58:02,472 - DEBUG - i is 5, total is 120
+ 2019-11-06 13:58:02,472 - DEBUG - End of factorial(5%)
+ 2019-11-06 13:58:02,478 - DEBUG - End of program
+ 2019-11-06 13:59:13,578 - DEBUG - Start of program
+ 2019-11-06 13:59:32,087 - DEBUG - Start of factorial(5%)
+ 2019-11-06 13:59:36,038 - DEBUG - i is 1, total is 1
+ 2019-11-06 13:59:37,170 - DEBUG - i is 2, total is 2
+ 2019-11-06 14:04:37,452 - DEBUG - Start of program
+ 2019-11-06 14:04:37,455 - DEBUG - Start of factorial(5%)
+ 2019-11-06 14:04:37,456 - DEBUG - i is 1, total is 1
+ 2019-11-06 14:04:37,456 - DEBUG - i is 2, total is 2
+ 2019-11-06 14:04:37,457 - DEBUG - i is 3, total is 6
+ 2019-11-06 14:04:37,458 - DEBUG - i is 4, total is 24
+ 2019-11-06 14:04:37,458 - DEBUG - i is 5, total is 120
+ 2019-11-06 14:04:37,459 - DEBUG - End of factorial(5%)
+ 2019-11-06 14:04:37,504 - DEBUG - End of program
+ 2019-11-06 14:12:08,076 - DEBUG - Start of program
+ 2019-11-06 14:12:08,080 - DEBUG - Start of factorial(5%)
+ 2019-11-06 14:12:14,418 - DEBUG - i is 1, total is 1
+ 2019-11-06 14:12:15,597 - DEBUG - i is 2, total is 2
+ 2019-11-06 14:12:17,261 - DEBUG - i is 3, total is 6
+ 2019-11-06 14:12:20,578 - DEBUG - i is 4, total is 24
+ 2019-11-06 14:12:22,865 - DEBUG - i is 5, total is 120
+ 2019-11-06 14:12:23,578 - DEBUG - End of factorial(5%)
+ 2019-11-06 14:12:31,524 - DEBUG - End of program
+ 2019-11-06 14:15:09,372 - DEBUG - Start of program
+ 2019-11-06 14:15:18,467 - DEBUG - Start of factorial(5%)
+ 2019-11-06 14:15:25,775 - DEBUG - i is 1, total is 1
